@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/index/index.jsx"],"names":[],"mappings":"6FAAA,2BACgB,qBACd,OAAO","file":"static/js/3.4a4063e2.chunk.js","sourcesContent":["import React from 'react';\nexport default (() => {\n  return <div>33333</div>;\n});"],"sourceRoot":""}
