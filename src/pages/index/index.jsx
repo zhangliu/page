@@ -18,6 +18,6 @@ export default () => {
   }, []);
 
   return (
-    <div>{count}</div>
+    <div className="mt:40 fs:32">{count}</div>
   );
 }
